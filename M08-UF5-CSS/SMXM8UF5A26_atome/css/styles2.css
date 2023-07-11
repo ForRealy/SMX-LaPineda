@@ -1,0 +1,172 @@
+body{
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    overflow: visible;
+}
+div#origin{
+    background-color: black;
+    width: 705px;
+    height: 439px;
+}
+div .caja1{
+    width: 75px;
+    height: 439px;
+    float: inline-start;
+}
+div .caja2{
+    width: 150px;
+    height: 439px;
+    float: inline-start;
+    margin-left: 7px;
+}
+div .caja3{
+    width: 151px;
+    height: 439px;
+    float: inline-start;
+    margin-left: 7px;
+}
+div .caja4{
+    width: 151px;
+    height: 439px;
+    float: inline-start;
+    margin-left: 7px;
+}
+div .caja5{
+    width: 150px;
+    height: 439px;
+    float: inline-start;
+    margin-left: 7px;
+}
+div .cian{
+    background-color: white;
+}
+div .amarillo{
+    background-color: yellow;
+}
+div .azul{
+    background-color: blue;
+}
+div .rojo{
+    background-color: red;
+}
+div#cian1{
+    width: 75px;
+    height:100px;
+    margin: 0px 0px 7px 0px;
+    float: inline-start;
+}
+div#cian2{
+    width: 75px;
+    height: 228px;
+    margin: 0px 0px 7px 0px;
+    float: inline-start;
+}
+div#cian3{
+    width: 75px;
+    height:45px;
+    margin: 0px 0px 7px 0px;
+    float: inline-start;
+}
+div#cian4{
+    width: 75px;
+    height:45px;
+    margin: 0px 0px 7px 0px;
+    float: inline-start;
+}
+div#amarillo1{
+    width: 147px;
+    height:439px;
+    float: inline-start;
+}
+div#azul1{
+    width: 150px;
+    height:151px;
+    margin: 0px 0px 0px 0px;
+    float: inline-start;
+}
+div#amarillo2{
+    width: 150px;
+    height:281px;
+    margin: 7px 0px 0px 0px;
+    float: inline-start;
+}
+div#rojo1{
+    width: 150px;
+    height:280px;
+    margin: 0px 0px 0px 0px;
+    float: inline-start;
+}
+div#rojo2{
+    width: 71px;
+    height:45px;
+    margin: 7px 0px 0px 0px;
+    float: inline-start;
+}
+div#rojo3{
+    width: 72px;
+    height: 45px;
+    margin: 7px 0px 0px 0px;
+    float: inline-end;
+}
+div#azul2{
+    width: 71px;
+    height:100px;
+    margin: 7px 0px 0px 0px;
+    float: inline-start;
+}
+div#rojo4{
+    width: 71px;
+    height:100px;
+    margin: 7px 0px 0px 0px;
+    float: inline-end;
+}
+div#amarillo3{
+    width: 71px;
+    height:100px;
+    margin: 0px 0px 0px 0px;
+    float: inline-start;
+}
+div#amarillo4{
+    width: 71px;
+    height:46px;
+    margin: 0px 0px 0px 0px;
+    float: inline-end;
+}
+div#rojo5{
+    width: 71px;
+    height:46px;
+    margin: 8px 0px 0px 0px;
+    float: inline-end;
+}
+div#cian5{
+    width: 71px;
+    height:45px;
+    margin: 7px 0px 0px 0px;
+    float: inline-start;
+}
+div#cian6{
+    width: 71px;
+    height:45px;
+    margin: 7px 0px 0px 0px;
+    float: inline-end;
+}
+div#rojo6{
+    width: 150px;
+    height:121px;
+    margin: 7px 0px 0px 0px;
+    float: inline-start;
+}
+div#amarillo5{
+    width: 71px;
+    height:152px;
+    margin: 7px 0px 0px 0px;
+    float: inline-start;
+}
+div#amarillo6{
+    width: 71px;
+    height:152px;
+    margin: 7px 0px 0px 0px;
+    float: inline-end;
+}

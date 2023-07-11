@@ -1,0 +1,110 @@
+body{
+    background-color: black;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    padding: 300px;
+}
+div#origin{
+    background-color: grey;
+    width: 400px;
+    height: 280px;
+    color: white;
+}
+div#d1{
+    background-color: red;
+    width: 200px;
+    height: 70px;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+div#d2{
+    background-color: blue;
+    width: 200px;
+    height: 70px;
+    margin: 0px;
+    padding: 0px;
+    float: right;
+}
+div#d3{
+    background-color: yellow;
+    width: 100px;
+    height: 140px;
+    margin: 0px;
+    padding: 0px;
+    float: inline-start;
+}
+div#d4{
+    background-color: purple;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    padding: 0px;
+    float: inline-start;
+}
+div#d5{
+    background-color: rebeccapurple;
+    width: 200px;
+    height: 70px;
+    margin: 0px;
+    padding: 0px;
+    float: right;
+}
+div#d6{
+    background-color: pink;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    padding: 0px;
+    float: inline-start;
+}
+div#d7{
+    background-color: yellowgreen;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    padding: 0px;
+    float: inline-start;
+}
+div#d8{
+    background-color: white;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    padding: 0px;
+    float: right;
+}
+div#d9{
+    background-color: violet;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    padding: 0px;
+    float: inline-start;
+}
+div#d10{
+    background-color: brown;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    padding: 0px;
+    float: inline-start;
+}
+div#d11{
+    background-color: red;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    padding: 0px;
+    float: inline-start;
+}
+div#d12{
+    background-color: brown;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    padding: 0px;
+    float: right;
+}

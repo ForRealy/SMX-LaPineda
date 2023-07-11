@@ -1,0 +1,33 @@
+header {
+    background-color: red;
+    height: 60px;
+}
+aside {
+    background-color: green;
+    width: 20%;
+    height: 680px;
+    float: left;
+    margin: 8px 0px 0px 0px;
+}
+div{
+    width: 100%;
+    height: 696px;
+}
+div #content{
+    float: right;
+    width: 79%;
+}
+nav {
+    background-color: grey;
+    height: 80px;
+    margin: 8px 0px 0px 0px;
+}
+article{
+    background-color: yellow;
+    height: 591px;
+    margin: 8px 0px 0px 0px;
+}
+footer {
+    height: 60px;
+    background-color: blue;
+}
